@@ -1,8 +1,3 @@
-# Predict-spike-counts-with-Linear-Gaussian-model
-Sure! Here is the content formatted as a README file that you can use for your GitHub repository:
-
----
-
 # Predict Spike Counts with Linear-Gaussian Model
 
 This repository contains a Python script to predict spike counts using a Linear-Gaussian model. The script downloads data, processes it, creates a design matrix, predicts spike counts, and plots the actual vs predicted spike counts.
