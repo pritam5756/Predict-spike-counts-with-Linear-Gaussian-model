@@ -87,5 +87,3 @@ You should see a plot with the x-axis representing time and the y-axis represent
 Here is the full script:
 https://github.com/pritam5756/Predict-spike-counts-with-Linear-Gaussian-model/blob/main/LGRM.ipynb
 ```
-
----
